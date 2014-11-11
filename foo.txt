@@ -1,2 +1,2 @@
-Hi! my name is Gloria,
-This morning was nice.
+Hi _0/ my name is Gloria, i am learning node.
+
