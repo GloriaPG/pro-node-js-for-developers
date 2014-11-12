@@ -1,13 +1,8 @@
 {
-  "name": "Pro Node.js for developers",
-  "version": "0.0.1",
+  "name": "Glow",
   "description": "Examples the main's functions in node",
   "author": "Gloria Palma  <ing.gloriapalmagonzalez@gmail.com> | @ZatoryPrivate",
   "dependencies": {
-    
-  },
-  "devDependencies": {
-    
+    "async": "^0.9.0"
   }
 }
-  
