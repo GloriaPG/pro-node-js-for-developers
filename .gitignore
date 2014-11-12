@@ -24,3 +24,6 @@ build/Release
 
 #Mac
 .DS_Store
+
+#Folder node_modules
+node_modules
