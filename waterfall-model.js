@@ -1,8 +1,8 @@
 var async = require("async");
 
-async.waterfaÂll([
+async.waterfall([
 	function(callback){
-		callback(null,Math.random(), Math.ramdom());
+		callback(null,Math.random(), Math.random());
 	},
 	function(a,b,callback){
 		callback(null,a * a + b * b);
